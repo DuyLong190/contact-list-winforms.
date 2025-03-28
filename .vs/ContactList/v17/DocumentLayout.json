@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\long\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\long\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +35,22 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:11:30.373Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -50,8 +66,7 @@
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAD4vxoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:11:30.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T15:11:30.346Z"
             },
             {
               "$type": "Document",
@@ -63,20 +78,7 @@
               "RelativeToolTip": "AddContactForm.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:11:30.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "AddContactForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "AddContactForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:11:30.373Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-28T15:11:30.371Z"
             },
             {
               "$type": "Document",
@@ -87,8 +89,7 @@
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\Long\\ContactList\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:11:30.561Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-28T15:11:30.561Z"
             }
           ]
         },
