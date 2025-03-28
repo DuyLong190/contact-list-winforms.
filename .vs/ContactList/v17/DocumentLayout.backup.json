@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|c:\\users\\dell\\source\\repos\\contact-list-winform\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A444667-FFC0-4017-90E8-2F4F7137226B}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs*",
-              "RelativeToolTip": "MainForm.cs*",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAD4vxoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T04:05:40.488Z",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AddContactForm.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\AddContactForm.cs",
               "RelativeDocumentMoniker": "AddContactForm.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddContactForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\AddContactForm.cs",
               "RelativeDocumentMoniker": "AddContactForm.cs",
@@ -68,12 +68,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs [Design]*",
-              "RelativeToolTip": "MainForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\contact-list-winform\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:54:27.089Z",
               "EditorCaption": " [Design]"
